@@ -6,9 +6,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/bhushanphirke/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0283-move-zeroes](https://github.com/bhushanphirke/LeetCode/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/bhushanphirke/LeetCode/tree/master/0283-move-zeroes) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/bhushanphirke/LeetCode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/bhushanphirke/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
