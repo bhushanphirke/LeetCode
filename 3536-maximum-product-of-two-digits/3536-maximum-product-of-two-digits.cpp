@@ -1,21 +1,26 @@
 class Solution {
 public:
     int maxProduct(int n) {
-        int product=0;
+        int first=-1;
+        int second=-1;
         int digit;
-        vector<int> arr;
+        
         while(n>0)
         {
             digit=n%10;
-            arr.push_back(digit);
+            if(digit > first)
+            {
+              second=first;
+              first=digit;
+            }
+            else if(digit > second && digit <=first)
+            {
+               second = digit;
+            }
             n=n/10;
 
         }
 
-        sort(arr.begin(),arr.end());
-        product=arr[arr.size()-1]*arr[arr.size()-2];
-
-    
-        return product;
+        return first*second;
     }
 };
