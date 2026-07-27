@@ -15,7 +15,7 @@ public:
                
 
              }
-             else if(nums[i]>second && i!=index)
+             else if(nums[i]>second)
              {
                     second = nums[i];
              }
