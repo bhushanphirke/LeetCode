@@ -31,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/bhushanphirke/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/bhushanphirke/LeetCode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/bhushanphirke/LeetCode/tree/master/0283-move-zeroes) |
+| [1768-merge-strings-alternately](https://github.com/bhushanphirke/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhushanphirke/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bhushanphirke/LeetCode/tree/master/0014-longest-common-prefix) |
+| [1768-merge-strings-alternately](https://github.com/bhushanphirke/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
