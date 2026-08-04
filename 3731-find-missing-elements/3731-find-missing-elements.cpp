@@ -4,17 +4,28 @@ public:
         int mn = *min_element(nums.begin(),nums.end());
         int mx = *max_element(nums.begin(),nums.end());
 
-        unordered_set<int> st(nums.begin(),nums.end());
+        map<int, int> mpp;
         vector<int> ans;
-      
-        for(int i=mn; i<=mx;i++)
+
+        for(int i=mn;i<=mx;i++)
         {
-           if(st.find(i)== st.end())
-           {
-               ans.push_back(i);
-           }
+           mpp[i]++;
+        }
+
+        for(int i=0;i<nums.size();i++)
+        {
+           mpp[nums[i]]++;
+        }
+
+        for(auto it : mpp)
+        {
+            if(it.second==1)
+            {
+                 ans.push_back(it.first);
+            }
         }
 
         return ans;
+
     }
 };
