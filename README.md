@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bhushanphirke/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0796-rotate-string](https://github.com/bhushanphirke/LeetCode/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/bhushanphirke/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/bhushanphirke/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/bhushanphirke/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
