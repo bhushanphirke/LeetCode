@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/bhushanphirke/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhushanphirke/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/bhushanphirke/LeetCode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/bhushanphirke/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/bhushanphirke/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/bhushanphirke/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/bhushanphirke/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhushanphirke/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/bhushanphirke/LeetCode/tree/master/0206-reverse-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/bhushanphirke/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
