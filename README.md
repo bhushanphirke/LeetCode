@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/bhushanphirke/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/bhushanphirke/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/bhushanphirke/LeetCode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/bhushanphirke/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/bhushanphirke/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/bhushanphirke/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bhushanphirke/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/bhushanphirke/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/bhushanphirke/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/bhushanphirke/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/bhushanphirke/LeetCode/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhushanphirke/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/bhushanphirke/LeetCode/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/bhushanphirke/LeetCode/tree/master/1486-xor-operation-in-an-array) |
