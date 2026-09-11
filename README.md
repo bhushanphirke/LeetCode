@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhushanphirke/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhushanphirke/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/bhushanphirke/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3483-unique-3-digit-even-numbers](https://github.com/bhushanphirke/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/bhushanphirke/LeetCode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bhushanphirke/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/bhushanphirke/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/bhushanphirke/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/bhushanphirke/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2965-find-missing-and-repeated-values](https://github.com/bhushanphirke/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3483-unique-3-digit-even-numbers](https://github.com/bhushanphirke/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/bhushanphirke/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhushanphirke/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/bhushanphirke/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhushanphirke/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/bhushanphirke/LeetCode/tree/master/0206-reverse-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/bhushanphirke/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
