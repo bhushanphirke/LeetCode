@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhushanphirke/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/bhushanphirke/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/bhushanphirke/LeetCode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/bhushanphirke/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/bhushanphirke/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhushanphirke/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bhushanphirke/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/bhushanphirke/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/bhushanphirke/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/bhushanphirke/LeetCode/tree/master/0139-word-break) |
 | [0796-rotate-string](https://github.com/bhushanphirke/LeetCode/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/bhushanphirke/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2351-first-letter-to-appear-twice](https://github.com/bhushanphirke/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bhushanphirke/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/bhushanphirke/LeetCode/tree/master/0139-word-break) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bhushanphirke/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/bhushanphirke/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/bhushanphirke/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/bhushanphirke/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/bhushanphirke/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bhushanphirke/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/bhushanphirke/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/bhushanphirke/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/bhushanphirke/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhushanphirke/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/bhushanphirke/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/bhushanphirke/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [1406-stone-game-iii](https://github.com/bhushanphirke/LeetCode/tree/master/1406-stone-game-iii) |
 ## Heap (Priority Queue)
@@ -264,4 +269,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/bhushanphirke/LeetCode/tree/master/0836-rectangle-overlap) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/bhushanphirke/LeetCode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/bhushanphirke/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
