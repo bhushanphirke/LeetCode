@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/bhushanphirke/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bhushanphirke/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhushanphirke/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/bhushanphirke/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/bhushanphirke/LeetCode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bhushanphirke/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/bhushanphirke/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhushanphirke/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/bhushanphirke/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhushanphirke/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/bhushanphirke/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/bhushanphirke/LeetCode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhushanphirke/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bhushanphirke/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/bhushanphirke/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/bhushanphirke/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
 | ------- |
