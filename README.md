@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/bhushanphirke/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/bhushanphirke/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bhushanphirke/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/bhushanphirke/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/bhushanphirke/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bhushanphirke/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhushanphirke/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/bhushanphirke/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/bhushanphirke/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/bhushanphirke/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/bhushanphirke/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/bhushanphirke/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bhushanphirke/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/bhushanphirke/LeetCode/tree/master/3731-find-missing-elements) |
@@ -292,10 +294,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/bhushanphirke/LeetCode/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/bhushanphirke/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/bhushanphirke/LeetCode/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/bhushanphirke/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Merge Sort
 |  |
 | ------- |
