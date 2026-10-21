@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/bhushanphirke/LeetCode/tree/master/0043-multiply-strings) |
 | [0139-word-break](https://github.com/bhushanphirke/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/bhushanphirke/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/bhushanphirke/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0301-remove-invalid-parentheses](https://github.com/bhushanphirke/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/bhushanphirke/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/bhushanphirke/LeetCode/tree/master/0796-rotate-string) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/bhushanphirke/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/bhushanphirke/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/bhushanphirke/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/bhushanphirke/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/bhushanphirke/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/bhushanphirke/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/bhushanphirke/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
