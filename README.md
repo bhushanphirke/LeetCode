@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/bhushanphirke/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/bhushanphirke/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/bhushanphirke/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2409-count-days-spent-together](https://github.com/bhushanphirke/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/bhushanphirke/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/bhushanphirke/LeetCode/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/bhushanphirke/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/bhushanphirke/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/bhushanphirke/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2965-find-missing-and-repeated-values](https://github.com/bhushanphirke/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhushanphirke/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhushanphirke/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
