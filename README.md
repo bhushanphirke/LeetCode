@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/bhushanphirke/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhushanphirke/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/bhushanphirke/LeetCode/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/bhushanphirke/LeetCode/tree/master/0705-design-hashset) |
 | [0875-koko-eating-bananas](https://github.com/bhushanphirke/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhushanphirke/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/bhushanphirke/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bhushanphirke/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/bhushanphirke/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/bhushanphirke/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0705-design-hashset](https://github.com/bhushanphirke/LeetCode/tree/master/0705-design-hashset) |
 | [2351-first-letter-to-appear-twice](https://github.com/bhushanphirke/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/bhushanphirke/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/bhushanphirke/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/bhushanphirke/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bhushanphirke/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/bhushanphirke/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0705-design-hashset](https://github.com/bhushanphirke/LeetCode/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/bhushanphirke/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -438,4 +441,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhushanphirke/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/bhushanphirke/LeetCode/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/bhushanphirke/LeetCode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
